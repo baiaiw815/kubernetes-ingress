@@ -95,8 +95,3 @@ You can contact us directly via [kubernetes@nginx.com](mailto:kubernetes@nginx.c
 ## Contributing
 
 If you'd like to contribute to the project, please read our [Contributing guide](CONTRIBUTING.md).
-
-## Support
-
-For NGINX Plus customers NGINX Ingress Controller (when used with NGINX Plus) is covered
-by the support contract.
